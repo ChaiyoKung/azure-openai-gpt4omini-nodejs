@@ -1,5 +1,7 @@
 # Azure OpenAI GPT-4o Mini Node.js
 
+Application utilizes Azure OpenAI's API to generate text completions based on a given prompt, processing and displaying the results in JSON format.
+
 ## Getting Started
 
 Install dependencies:
