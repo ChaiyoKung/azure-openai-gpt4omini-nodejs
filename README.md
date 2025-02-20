@@ -12,6 +12,12 @@ az login
 
 ## Getting Started
 
+Create a `.env` file and configure the environment variables:
+
+```bash
+cp .env.example .env
+```
+
 Install dependencies:
 
 ```bash
