@@ -2,6 +2,14 @@
 
 Application utilizes Azure OpenAI's API to generate text completions based on a given prompt, processing and displaying the results in JSON format.
 
+## Preparation
+
+Login to Azure and create a new resource for OpenAI. Ensure that you assign the "Cognitive Services OpenAI User" role to access the OpenAI API.
+
+```bash
+az login
+```
+
 ## Getting Started
 
 Install dependencies:
